@@ -1,0 +1,15 @@
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/bin/Debug/net10.0/GestaoContas
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/bin/Debug/net10.0/GestaoContas.deps.json
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/bin/Debug/net10.0/GestaoContas.runtimeconfig.json
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/bin/Debug/net10.0/GestaoContas.dll
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/bin/Debug/net10.0/GestaoContas.pdb
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/GestaoContas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/GestaoContas.AssemblyInfoInputs.cache
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/GestaoContas.AssemblyInfo.cs
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/GestaoContas.csproj.CoreCompileInputs.cache
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/GestaoContas.sourcelink.json
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/GestaoContas.dll
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/refint/GestaoContas.dll
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/GestaoContas.pdb
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/GestaoContas.genruntimeconfig.cache
+/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas/obj/Debug/net10.0/ref/GestaoContas.dll
