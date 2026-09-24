@@ -84,7 +84,7 @@ namespace GestaoContas
                 throw new InvalidOperationException("Saldo insuficiente.");
             }
             Saldo -= valor;
-            _historico.Add($"Depósito de {valor:F2} EUR");
+            _historico.Add($"Levantamento de {valor:F2} EUR");
         }
 
         public void TransferirPara(ContaBancaria destino, double valor)

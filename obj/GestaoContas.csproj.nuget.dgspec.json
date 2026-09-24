@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas.csproj": {}
+    "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas.csproj": {}
   },
   "projects": {
-    "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas.csproj": {
+    "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas.csproj",
+        "projectUniqueName": "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas.csproj",
         "projectName": "GestaoContas",
-        "projectPath": "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas.csproj",
+        "projectPath": "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/GestaoContas.csproj",
         "packagesPath": "/Users/marinaoliveira/.nuget/packages/",
-        "outputPath": "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/obj/",
+        "outputPath": "/Users/marinaoliveira/Documents/ESTUDOS/CET PROGRAMAÇÃO ISLA/UC00620 - Desenvolver apps em C#/Exercícios/GestaoContas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marinaoliveira/.nuget/NuGet/NuGet.Config"
